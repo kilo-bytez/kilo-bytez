@@ -20,7 +20,6 @@ My work is centred on understanding how attackers operate, turning intelligence 
 - APT tracking
 - MITRE ATT&CK mapping
 - Splunk detection rules
-- AI-assisted cyber defence
 
 ---
 
