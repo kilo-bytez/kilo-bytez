@@ -1,13 +1,35 @@
-👋 Hi, I'm @kilo-bytez and welcome to my GitHub profile!
+# 👋 Hi, I’m @kilo-bytez
 
-👀 I'm interested in cybersecurity, specifically in the areas of penetration testing and defense SOC. 
-I'm always looking to improve my skills and stay up-to-date with the latest developments in the field.
+## 🛡️ Cyber Threat Operations Specialist | Defence Industry | SOC & CTI
 
-🌱 Currently, I'm learning about risk management, incident response, and ethical hacking through industry-recognized certifications such as
-CompTIA Security+, SOC-200, and OSCP. I also completed the Capslock Cybersecurity course, which gave me hands-on experience in areas such as penetration testing, 
-vulnerability assessment, and threat intelligence.
+I work in the defence industry as a Cyber Threat Operations Specialist, focused on cyber threat intelligence, SOC operations, threat hunting, incident response, and adversary-focused security research.
 
-💞️ I'm looking to collaborate on projects related to cybersecurity, especially those involving penetration testing and defense SOC.
-I'm excited to work with other cybersecurity enthusiasts to develop innovative solutions that can help individuals 
-nd organizations protect themselves against cyber threats.
+My work is centred on understanding how attackers operate, turning intelligence into practical detections, and supporting stronger cyber defence across enterprise environments.
 
+---
+
+## 🔎 Focus Areas
+
+- Cyber Threat Operations
+- Security Operations Centre workflows
+- Cyber Threat Intelligence
+- Threat hunting
+- Detection engineering
+- Incident response
+- Adversary behaviour analysis
+- APT tracking
+- MITRE ATT&CK mapping
+- Splunk detection rules
+- AI-assisted cyber defence
+
+---
+
+## ⚙️ Tools & Technologies
+
+```text
+SIEM:        Splunk, Splunk ES, CIM
+CTI:         Recorded Future, OSINT, threat reports
+Security:    MITRE ATT&CK, Sigma, YARA, Suricata, Nmap, Metasploit
+Cloud/Web:   Docker, VPS deployments, Cloudflare Tunnel
+Scripting:   Python, Bash, PowerShell
+Focus:       Detection engineering, threat-led defence, SOC workflows
